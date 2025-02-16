@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# User Defined
+modified_files.txt
+new-modified-files.docx
